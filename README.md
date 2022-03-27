@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @baedirin
-- 👀 I’m interested in web design & development
-- 🌱 I’m currently learning PHP, Python, Java
-- 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me - nico@nicomoving.com
+- 👋 hi, i’m @baedirin
+- 👀 i’m interested in cyber security
+- 🌱 i’m currently a student at oregon state university for computer science
+- 📫 how to reach me - bdavis11@seattlecentral.edu
 
 <!---
 baedirin/baedirin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
