@@ -1,5 +1,5 @@
-- 👋 hi, i’m @baedirin
-- 👀 i’m interested in cyber security
+- 👋 hi, i’m @baedirin - i go by nico!
+- 👀 i’m interested in computer architecture & cybersecurity
 - 🌱 i’m currently a student at oregon state university for computer science
 - 📫 how to reach me - davisbr2@oregonstate.edu
 <!---
