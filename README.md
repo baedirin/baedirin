@@ -1,6 +1,6 @@
 - 👋 hi, i’m @baedirin - i go by nico!
 - 👀 i’m interested in graphics & computer architecture!
-- 🌱 i’m currently a student at oregon state university for computer science
+- 🌱 i’m a 2025 graduate of oregon state university with a B.S. in computer science
 - 📫 how to reach me - bdavis11@seattlecentral.edu
 - 🔗 https://www.linkedin.com/in/brittaneynicodavis/
 <!---
